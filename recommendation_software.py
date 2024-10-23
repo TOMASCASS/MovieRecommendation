@@ -7,7 +7,7 @@ import time
 # Initialize TMDb with your API key
 tmdb = TMDb()
 # Replace with your actual TMDb API key
-tmdb.api_key = 'a80f52582b3095d4b51cf9f2a0980f04'
+tmdb.api_key = 'YOUR-API-KEY'
 tmdb.language = 'en'
 tmdb.debug = True
 
